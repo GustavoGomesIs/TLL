@@ -9,3 +9,16 @@ html, body {
     background-image: url(../img/img_minecraft001.png);
     min-height: 100vh;
 }
+
+header {
+    background-color: rgba(0, 0, 0, 0.308);
+    color: white;
+}
+
+img.logo_tll{
+    width: 75px;
+}
+
+h1.tll {
+    padding: 10px;
+}
